@@ -2,13 +2,13 @@
 
 노트에 적은 약속과 할 일을 GPT로 정리하고, 확인한 내용을 달력에 연결하는 Mac 앱입니다. 반복할 일은 루틴으로 관리하고, 중요한 메일은 목록이나 펫 알림으로 확인할 수 있습니다.
 
-**현재 버전: 0.1.0-beta.2 · Apple Silicon(M1 이상) · macOS 13 이상**
+**현재 버전: 0.1.0-beta.3 · Apple Silicon(M1 이상) · macOS 13 이상**
 
 아직 개발 중인 베타 버전입니다. 일부 기능이 불안정할 수 있으므로 중요한 기록은 내보내기로 별도 보관해 주세요. 아래 캡처의 일정·메일·계정은 설명을 위한 예시 데이터입니다.
 
 ## 다운로드와 설치
 
-[Mac 베타 설치 파일 다운로드](https://github.com/iamnuked/kalendar-releases/releases/download/v0.1.0-beta.2/Kalendar_0.1.0-beta.2_aarch64.dmg) · [모든 버전 보기](https://github.com/iamnuked/kalendar-releases/releases)
+[Mac 베타 설치 파일 다운로드](https://github.com/iamnuked/kalendar-releases/releases/download/v0.1.0-beta.3/Kalendar_0.1.0-beta.3_aarch64.dmg) · [모든 버전 보기](https://github.com/iamnuked/kalendar-releases/releases)
 
 1. Mac의 **이 Mac에 관하여**에서 칩이 Apple M1·M2·M3 등 Apple Silicon인지 확인합니다. Intel Mac용 파일은 아직 없습니다.
 2. 다운로드한 `.dmg` 파일을 엽니다.

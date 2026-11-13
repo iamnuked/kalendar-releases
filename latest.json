@@ -1,11 +1,11 @@
 {
-  "version": "0.1.0-beta.2",
-  "notes": "한국어 환경의 앱과 Siri 표시 이름을 Kalendar로 통일했습니다.",
-  "pub_date": "2026-11-13T09:10:19.935Z",
+  "version": "0.1.0-beta.3",
+  "notes": "업데이트 설치와 재시작 전에 확인 버튼의 응답을 기다리도록 수정했습니다. API 키 삭제 확인도 취소할 수 있도록 수정했습니다.",
+  "pub_date": "2026-11-13T10:50:47.914Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/iamnuked/kalendar-releases/releases/download/v0.1.0-beta.2/Kalendar_0.1.0-beta.2_aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROVJXUEJRY05pOWhuQmdPdlgzd0h0T0o4RUJRMTRoTkNoSDc5NkVEcGVocHFxSVRxWkxkZ0RVc1FUWTJWMGZYNDlOa1NtN0VIQ2V1K1V6WWFjaWhQbmxkYTRjWXVwelFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTYxMDE5CWZpbGU6S2FsZW5kYXJfMC4xLjAtYmV0YS4yX2FhcmNoNjQuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4wLWJldGEuMgp0THBzMkNOWWV6QytiSHZFaVZCVnRsdnlPUC9HdURveUpDR0hFNVNzVWZ1RStxREtZaytrVVlEbE9sbUpkVDl3a1FqcUI3OEQxV0VFdkprU0JKQUlCZz09Cg=="
+      "url": "https://github.com/iamnuked/kalendar-releases/releases/download/v0.1.0-beta.3/Kalendar_0.1.0-beta.3_aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROVJXUEJRY05pOXJ1ZmNxSVdCajI3RzhEZXdDZVZjeHZPbUk4elBXbTN6UUtZUmIvTjhlK2ZCNU5iY05sYlFQam5XVkh1YTlETlIrQVptUTNRL3ZETkFDNEtKOUtYcWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTY3MDQ3CWZpbGU6S2FsZW5kYXJfMC4xLjAtYmV0YS4zX2FhcmNoNjQuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4wLWJldGEuMwpxakF1c1NkUVRMVUFDaGpOZTJUOHBQeDNhd3FZVE8xZURDV1AwcWsxRWR4MDFzSlFxbFY0eWlMZVVUZjJEc1FkOVJLeG1JdGZDSitnZEtzMWlEVlNEZz09Cg=="
     }
   }
 }

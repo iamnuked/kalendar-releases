@@ -1,11 +1,11 @@
 {
-  "version": "0.1.0-beta.3",
-  "notes": "업데이트 설치와 재시작 전에 확인 버튼의 응답을 기다리도록 수정했습니다. API 키 삭제 확인도 취소할 수 있도록 수정했습니다.",
-  "pub_date": "2026-11-13T10:50:47.914Z",
+  "version": "0.1.0-beta.4",
+  "notes": "루틴 간편 입력, GitHub 데일리 뉴스, OpenAI 비용 조회 설정을 추가하고 설정·뉴스 접근성을 개선했습니다. 이번 버전은 가상 Mac 설치·업데이트 테스트를 진행하지 않았습니다.",
+  "pub_date": "2026-11-14T10:26:07.847Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/iamnuked/kalendar-releases/releases/download/v0.1.0-beta.3/Kalendar_0.1.0-beta.3_aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROVJXUEJRY05pOXJ1ZmNxSVdCajI3RzhEZXdDZVZjeHZPbUk4elBXbTN6UUtZUmIvTjhlK2ZCNU5iY05sYlFQam5XVkh1YTlETlIrQVptUTNRL3ZETkFDNEtKOUtYcWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTY3MDQ3CWZpbGU6S2FsZW5kYXJfMC4xLjAtYmV0YS4zX2FhcmNoNjQuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4wLWJldGEuMwpxakF1c1NkUVRMVUFDaGpOZTJUOHBQeDNhd3FZVE8xZURDV1AwcWsxRWR4MDFzSlFxbFY0eWlMZVVUZjJEc1FkOVJLeG1JdGZDSitnZEtzMWlEVlNEZz09Cg=="
+      "url": "https://github.com/iamnuked/kalendar-releases/releases/download/v0.1.0-beta.4/Kalendar_0.1.0-beta.4_aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROVJXUEJRY05pOXMxVUV6K3JMZGpKZXUrYnNtWWpiQXI2UWJ3S2ZYZnZYNm8vZ1RDNThMYmUzZjRHQ1lyQTZzRmUrVHlBWUZoc3ZaSjJqMFd6WnhIbVo0a3dTSkxiWHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjUxOTY3CWZpbGU6S2FsZW5kYXJfMC4xLjAtYmV0YS40X2FhcmNoNjQuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4wLWJldGEuNAoxd0ZJbktXRVlXTkVveTZULzdYdDdVK3lUemRQbis2RWE4c0M1Q25XcFA3N1llRkVMcTlIS2FodU1JeWtwdFFpQ2dreWx4TXZWY29wRjF6eW1FYy9CUT09Cg=="
     }
   }
 }

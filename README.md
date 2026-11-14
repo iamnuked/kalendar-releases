@@ -8,7 +8,7 @@
 
 ## 다운로드와 설치
 
-[Mac 베타 설치 파일 다운로드](https://github.com/iamnuked/kalendar-releases/releases/download/v0.1.0-beta.4/Kalendar_0.1.0-beta.4_aarch64.dmg) · [모든 버전 보기](https://github.com/iamnuked/kalendar-releases/releases)
+[Mac 베타 설치 파일 다운로드](https://github.com/iamnuked/kalendar-releases/releases/download/v0.1.0-beta.4/Kalendar_0.1.0-beta.4_aarch64.dmg) · [모든 버전 보기](https://github.com/iamnuked/kalendar-releases/releases) · [패치 내역](CHANGELOG.md)
 
 1. Mac의 **이 Mac에 관하여**에서 칩이 Apple M1·M2·M3 등 Apple Silicon인지 확인합니다. Intel Mac용 파일은 아직 없습니다.
 2. 다운로드한 `.dmg` 파일을 엽니다.

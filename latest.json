@@ -1,11 +1,11 @@
 {
-  "version": "0.1.0-beta.5",
-  "notes": "테마와 메인 컬러 설정, D-day 표시, 아이콘바 재배치, GPT 모델 선택과 설정 저장 흐름을 개선했습니다. 노트 선택 오류를 수정하고 미완성인 주간·월간 노트는 비활성화했습니다.",
-  "pub_date": "2026-11-15T03:09:21.210Z",
+  "version": "0.1.0-beta.6",
+  "notes": "네이버 메일 설정의 다시 분류 버튼을 제거하고, 데일리 노트 정리 형식 편집을 흰 배경·검은 글자로 고정했습니다.",
+  "pub_date": "2026-11-15T03:40:36.107Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/iamnuked/kalendar-releases/releases/download/v0.1.0-beta.5/Kalendar_0.1.0-beta.5_aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROVJXUEJRY05pOWc4Qks0bDU0NjAyaEd4QS9URkVBTVJuc1I1NjdtbHpTMW41YmVBVmUvOHpMVkxrcHNmbGdNbDd0aDV2cUluN0t4MGVBVDE0amNaWHNmaXg0dFJlNGdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzEyMTYxCWZpbGU6S2FsZW5kYXJfMC4xLjAtYmV0YS41X2FhcmNoNjQuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4wLWJldGEuNQpteitLL3p1MFRUV3p4UE5iYlYxcjJUcm9xTC9QZVh3VVUvV0o2MnVIc0ZLMWtPMSs3RDBjbUlGZkFVeTZPYjVMaGFDcGNiQWQ5Wk01akxsZGZHQU1DZz09Cg=="
+      "url": "https://github.com/iamnuked/kalendar-releases/releases/download/v0.1.0-beta.6/Kalendar_0.1.0-beta.6_aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROVJXUEJRY05pOWxyZUNBb1BSWjBpRm1wRUYxaHFJM0krLzQxMkV3WTlxWVdNdjRHY0Q3cGlQc2Ztb083aDFFdkJHQUtvUTdIUTZWZUVuNWxaSlI5aXhnOWZ4UmxIL1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzE0MDM2CWZpbGU6S2FsZW5kYXJfMC4xLjAtYmV0YS42X2FhcmNoNjQuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4wLWJldGEuNgpHVkV4N0tBWXM2R2VtaFh1aE43MTNiTUdXVWR4QnQ5OXRJdlBiSEwrYUh1cndWWUJLOE1qV1YwRm5yMHNFRGo3ZTBBczdiL3NjbGQvVHdtaFNzdndCUT09Cg=="
     }
   }
 }

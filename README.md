@@ -2,13 +2,13 @@
 
 노트에 적은 약속과 할 일을 GPT로 정리하고, 확인한 내용을 달력에 연결하는 Mac 앱입니다. 반복할 일은 루틴으로 관리하고, 중요한 메일은 목록이나 펫 알림으로 확인할 수 있습니다.
 
-**현재 버전: 0.1.0-beta.5 · Apple Silicon(M1 이상) · macOS 13 이상**
+**현재 버전: 0.1.0-beta.6 · Apple Silicon(M1 이상) · macOS 13 이상**
 
 아직 개발 중인 베타 버전입니다. 일부 기능이 불안정할 수 있으므로 중요한 기록은 내보내기로 별도 보관해 주세요. 아래 캡처의 일정·메일·계정은 설명을 위한 예시 데이터입니다.
 
 ## 다운로드와 설치
 
-[Mac 베타 설치 파일 다운로드](https://github.com/iamnuked/kalendar-releases/releases/download/v0.1.0-beta.5/Kalendar_0.1.0-beta.5_aarch64.dmg) · [모든 버전 보기](https://github.com/iamnuked/kalendar-releases/releases) · [패치 내역](CHANGELOG.md)
+[Mac 베타 설치 파일 다운로드](https://github.com/iamnuked/kalendar-releases/releases/download/v0.1.0-beta.6/Kalendar_0.1.0-beta.6_aarch64.dmg) · [모든 버전 보기](https://github.com/iamnuked/kalendar-releases/releases) · [패치 내역](CHANGELOG.md)
 
 1. Mac의 **이 Mac에 관하여**에서 칩이 Apple M1·M2·M3 등 Apple Silicon인지 확인합니다. Intel Mac용 파일은 아직 없습니다.
 2. 다운로드한 `.dmg` 파일을 엽니다.
@@ -219,6 +219,6 @@ Gmail 연결에는 이 준비가 필요하며, API 키만 입력한다고 Gmail�
 
 ## 베타 버전에서 확인 중인 부분
 
-이번 beta.5는 가상 Mac에서 설치·업데이트 테스트를 진행하지 않았습니다. 위의 beta.3 가상 머신 검증은 이전 버전의 기록입니다.
+이번 beta.6은 가상 Mac에서 설치·업데이트 테스트를 진행하지 않았습니다. 위의 beta.3 가상 머신 검증은 이전 버전의 기록입니다.
 
 다른 Mac에서의 설치·업데이트, Siri·단축어와 공개 환경의 장기 사용은 아직 충분히 검증되지 않았습니다. 기능 개선과 함께 설치 파일을 계속 갱신할 예정입니다.

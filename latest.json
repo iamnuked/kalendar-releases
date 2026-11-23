@@ -1,11 +1,11 @@
 {
-  "version": "0.1.0-beta.7",
-  "notes": "상단 작업 탭, 달력·데일리 노트의 미니 달력, 원형·주간 루틴 시간표, 메일 계정 사이드바를 추가하고 노트 편집을 정리했습니다.",
-  "pub_date": "2026-11-21T15:37:17.818Z",
+  "version": "0.1.0-beta.8",
+  "notes": "필기 노트\n• 기존 보관함이 있으면 필기 노트의 복사 안내에서 Markdown으로 복사할 수 있습니다.\n• 원본은 유지되며 휴지통과 미저장 초안은 각각 별도 폴더에 복사합니다.\n• 중단됐으면 같은 폴더를 선택해 이어서 복사하세요.\n\n루틴과 위클리 노트\n• 루틴의 시작과 종료 시간을 원형 시간표에서 조절할 수 있습니다.\n• 위클리 노트에서 한 주의 기록과 선택한 루틴 달성률을 확인할 수 있습니다.",
+  "pub_date": "2026-11-23T09:53:43Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/iamnuked/kalendar-releases/releases/download/v0.1.0-beta.7/Kalendar_0.1.0-beta.7_aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROVJXUEJRY05pOWxxdEpBRmk3L3RyTHM5dWc3di9yT3B0ZGQva2RqRVdDRHcwbkZzRnBiTzlaUTlSN3NqMFhETnBoam1CZFFPNTdleFREN09NQ3Nic3p5amo5empUUmdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mjc1NDM3CWZpbGU6S2FsZW5kYXJfMC4xLjAtYmV0YS43X2FhcmNoNjQuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4wLWJldGEuNwpPRU8xeTlOb1ZFNlZiUTIzcmN2ekpyUW13N20xaWpBWG5zd1FzaHNldTlzb3J1M1Mya3B3QitmcmZlR2t1YWxmRVZqSzhrYmRKNytYS1lrRDhGRDlCUT09Cg=="
+      "url": "https://github.com/iamnuked/kalendar-releases/releases/download/v0.1.0-beta.8/Kalendar_0.1.0-beta.8_aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROVJXUEJRY05pOWhZanhkamsvekxsaWovanhNVTZRT2dxd2ZwbzZrdHhYS2FHWVVkSWw4RTJWdE9JbHJRai9BNGxOeHA2V0RMTnNDSmtXaUlXN0lyaTB4R3kyYis4T0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDI2MDkxCWZpbGU6S2FsZW5kYXJfMC4xLjAtYmV0YS44X2FhcmNoNjQuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4wLWJldGEuOAp4Q05ZaGpGNm0zNVR2S0RsaWprbjBKUkdWcXlFVlRscDU5eEdoVHppRlhWblNocVJXTERKVVNtdVdnQkRyYm9FbGdnRXZQbEMvQzVVb0dEb2tTcjBCQT09Cg=="
     }
   }
 }
